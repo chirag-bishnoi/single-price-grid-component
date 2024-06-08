@@ -11,7 +11,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [Click here](https://your-solution-url.com)
+- Solution URL: [Click here](https://chirag-bishnoi.github.io/single-price-grid-component/)
 
 ### Built with
 
